@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R22 Old Footprint=RESC0603(1608)_M New Footprint=RESC0603(1608)_N
+Added Pin To Net: NetName=NetC38_2 Pin=U6-2

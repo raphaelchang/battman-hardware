@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=JP3-GND
+Removed Pin From Net: NetName=GND Pin=JP3-P$4
+Removed Pin From Net: NetName=C+ Pin=JP3-VIN0
+Removed Member From Class: ClassName=U_Charging Member=JP3

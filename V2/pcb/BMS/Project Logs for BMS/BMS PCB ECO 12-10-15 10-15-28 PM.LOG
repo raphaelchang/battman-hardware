@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C28 Old Footprint=CAPC0603(1608)100_L New Footprint=CAPC0603(1608)100_M
+Change Component Footprint: Designator=C29 Old Footprint=CAPC0603(1608)100_L New Footprint=CAPC0603(1608)100_N
+Change Component Comment : Designator=C28 Old Comment=0.1uF New Comment=2.2uF
+Change Component Comment : Designator=C29 Old Comment=1uF New Comment=2.2uF

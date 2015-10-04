@@ -1,0 +1,18 @@
+Added Component: Designator=Q23(SOT23-3)
+Added Component: Designator=R70(RESC0603(1608)_L)
+Added Component: Designator=R71(RESC0603(1608)_L)
+Added Pin To Net: NetName=VDD Pin=Q23-2
+Added Pin To Net: NetName=L+ Pin=R71-1
+Added Pin To Net: NetName=NetC38_2 Pin=U6-2
+Added Pin To Net: NetName=NetQ23_1 Pin=Q23-1
+Added Pin To Net: NetName=NetQ23_1 Pin=R70-2
+Added Net: Name=NetQ23_1
+Added Pin To Net: NetName=NetQ23_3 Pin=Q23-3
+Added Pin To Net: NetName=NetQ23_3 Pin=R71-2
+Added Net: Name=NetQ23_3
+Added Pin To Net: NetName=PRECHARGE Pin=R70-1
+Added Pin To Net: NetName=PRECHARGE Pin=U3-22/A8
+Added Net: Name=PRECHARGE
+Added Member To Class: ClassName=U_MCU Member=Component Q23 MOSFET-N
+Added Member To Class: ClassName=U_MCU Member=Component R70 100R
+Added Member To Class: ClassName=U_MCU Member=Component R71 18R

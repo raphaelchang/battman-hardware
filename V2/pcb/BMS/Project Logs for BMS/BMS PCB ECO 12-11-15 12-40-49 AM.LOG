@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VDD Pin=Q19-1
+Removed Pin From Net: NetName=VDD Pin=Q19-1
+Removed Pin From Net: NetName=VDD Pin=Q19-1
+Removed Pin From Net: NetName=NetQ19_3 Pin=Q19-3
+Removed Pin From Net: NetName=NetQ19_3 Pin=Q19-3
+Removed Pin From Net: NetName=NetQ19_3 Pin=Q19-3
+Removed Pin From Net: NetName=NetQ19_3 Pin=Q19-3
+Added Pin To Net: NetName=NetQ19_3 Pin=Q19-1
+Added Pin To Net: NetName=NetQ19_3 Pin=Q19-1
+Added Pin To Net: NetName=NetQ19_3 Pin=Q19-1
+Added Pin To Net: NetName=VDD Pin=Q19-3
+Added Pin To Net: NetName=VDD Pin=Q19-3
+Added Pin To Net: NetName=VDD Pin=Q19-3
+Added Pin To Net: NetName=VDD Pin=Q19-3

@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [BMS.PcbDoc]
+   Generated File[BMS.GTL]
+   Generated File[BMS.GBL]
+   Generated File[BMS.GTO]
+   Generated File[BMS.GTP]
+   Generated File[BMS.GTS]
+   Generated File[BMS.GBS]
+   Generated File[BMS.GBP]
+   Generated File[BMS.GBO]
+   Generated File[BMS.GKO]
+   Generated File[BMS.RUL]
+   Generated File[BMS.EXTREP]
+   Generated File[BMS.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 5:16:54 PM On 12/14/15

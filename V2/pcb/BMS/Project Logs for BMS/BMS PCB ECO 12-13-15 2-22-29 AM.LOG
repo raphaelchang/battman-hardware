@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=B+ Pin=U5-1
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=5V Pin=U5-6
+Removed Pin From Net: NetName=VCC Pin=U5-7
+Removed Pin From Net: NetName=VBB Pin=U5-8
+Removed Pin From Net: NetName=VCC Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-4
+Change Component DesignItemId : Designator=U5 Old DesignItemId=CMP-0055-00659-1 New DesignItemId=CMP-0359-00619-2
+Change Component Footprint: Designator=U5 Old Footprint=M08A_M New Footprint=LT-MS8-8_N
+Change Component Comment : Designator=C27 Old Comment=2.2uF New Comment=0.1uF
+Change Component Comment : Designator=U5 Old Comment=LMP8602 New Comment=LT1999
+Added Pin To Net: NetName=5V Pin=U5-1
+Added Pin To Net: NetName=VBB Pin=U5-2
+Added Pin To Net: NetName=B+ Pin=U5-3
+Added Pin To Net: NetName=5V Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=5V Pin=U6-1
+Added Pin To Net: NetName=NetU5_7 Pin=U5-7
+Added Pin To Net: NetName=NetU5_7 Pin=U6-3
+Added Net: Name=NetU5_7
+Added Pin To Net: NetName=VREF Pin=C27-2
+Added Pin To Net: NetName=VREF Pin=U5-6
+Added Pin To Net: NetName=VREF Pin=U6-4
+Added Net: Name=VREF

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=L+ Pin=R71-1
+Removed Pin From Net: NetName=NetQ23_3 Pin=R71-2
+Removed Member From Class: ClassName=U_MCU Member=R71
+Added Component: Designator=R68(RESC2512(6432)_N)
+Added Pin To Net: NetName=L+ Pin=R68-1
+Added Pin To Net: NetName=NetQ23_3 Pin=R68-2
+Added Member To Class: ClassName=U_MCU Member=Component R68 750R

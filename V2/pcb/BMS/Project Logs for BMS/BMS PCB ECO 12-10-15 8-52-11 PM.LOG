@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C31 Old Footprint=CAPC0603(1608)100_L New Footprint=AVX-CAPC7343_V
+Change Component Footprint: Designator=U2 Old Footprint=TS5B_L New Footprint=SON50P300X85_HS-17N
+Added Pin To Net: NetName=NetU2_7 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=5V Pin=U2-9
+Added Pin To Net: NetName=NetU2_7 Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=VDD Pin=U2-14

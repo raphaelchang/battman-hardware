@@ -1,0 +1,10 @@
+Added Component: Designator=Q21(SOIC127P600X175-8N)
+Added Pin To Net: NetName=VDD Pin=Q21-1
+Added Pin To Net: NetName=VDD Pin=Q21-1
+Added Pin To Net: NetName=VDD Pin=Q21-1
+Added Pin To Net: NetName=POWER_GATE Pin=Q21-2
+Added Pin To Net: NetName=VOUT Pin=Q21-3
+Added Pin To Net: NetName=VOUT Pin=Q21-3
+Added Pin To Net: NetName=VOUT Pin=Q21-3
+Added Pin To Net: NetName=VOUT Pin=Q21-3
+Added Member To Class: ClassName=U_MCU Member=Component Q21 MOSFET-N

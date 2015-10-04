@@ -1,0 +1,6 @@
+Added Component: Designator=JP3(POWER_JACK_SMD_OVERPASTE_REDBOARD_0603)
+Added Pin To Net: NetName=GND Pin=JP3-GND
+Added Pin To Net: NetName=GND Pin=JP3-P$4
+Added Pin To Net: NetName=C+ Pin=JP3-VIN0
+Added Pin To Net: NetName=NetC38_2 Pin=U6-2
+Added Member To Class: ClassName=U_Charging Member=Component JP3 

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetQ15_1 Pin=Q15-4
+Removed Pin From Net: NetName=NetC32_1 Pin=Q15-5
+Removed Pin From Net: NetName=NetC35_1 Pin=Q16-4
+Removed Pin From Net: NetName=NetC33_1 Pin=Q16-5
+Change Component Footprint: Designator=Q15 Old Footprint= New Footprint=SOIC127P600X175-8N
+Change Component Footprint: Designator=Q16 Old Footprint= New Footprint=SOIC127P600X175-8N
+Added Pin To Net: NetName=NetQ15_1 Pin=Q15-2
+Added Pin To Net: NetName=NetC32_1 Pin=Q15-3
+Added Pin To Net: NetName=NetC32_1 Pin=Q15-3
+Added Pin To Net: NetName=NetC32_1 Pin=Q15-3
+Added Pin To Net: NetName=NetC32_1 Pin=Q15-3
+Added Pin To Net: NetName=NetC35_1 Pin=Q16-2
+Added Pin To Net: NetName=NetC33_1 Pin=Q16-3
+Added Pin To Net: NetName=NetC33_1 Pin=Q16-3
+Added Pin To Net: NetName=NetC33_1 Pin=Q16-3
+Added Pin To Net: NetName=NetC33_1 Pin=Q16-3
+Added Pin To Net: NetName=NetC38_2 Pin=U6-2

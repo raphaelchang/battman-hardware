@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=C35 Old Footprint=CAPC0603(1608)55_L New Footprint=CAPC0603(1608)55_M
+Change Component Footprint: Designator=C34 Old Footprint=CAPC0603(1608)100_L New Footprint=CAPC0603(1608)100_M
+Change Component Footprint: Designator=C38 Old Footprint=CAPC0603(1608)100_L New Footprint=CAPC0603(1608)100_M
+Change Component Footprint: Designator=C39 Old Footprint=CAPC0603(1608)100_L New Footprint=CAPC0603(1608)100_N
+Change Component Footprint: Designator=R55 Old Footprint=RESC0603(1608)_L New Footprint=RESC0603(1608)_M
+Change Component Footprint: Designator=R56 Old Footprint=RESC0603(1608)_L New Footprint=RESC0603(1608)_M
+Change Component Footprint: Designator=R62 Old Footprint=RESC0603(1608)_L New Footprint=RESC0603(1608)_M
+Change Component Footprint: Designator=R64 Old Footprint=RESC0603(1608)_L New Footprint=RESC0603(1608)_M
+Change Component Footprint: Designator=R54 Old Footprint=RESC0603(1608)_L New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R65 Old Footprint=RESC0603(1608)_L New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R66 Old Footprint=RESC0603(1608)_L New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R67 Old Footprint=RESC0603(1608)_L New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=R61 Old Footprint=RESC2010(5025)_L New Footprint=RESC2010(5025)_M
+Added Pin To Net: NetName=NetD4_2 Pin=C40-2
+Added Pin To Net: NetName=NetD4_2 Pin=D20-1
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetC40_2
+Added Pin To Net: NetName=NetQ18_1 Pin=Q18-2
+Added Pin To Net: NetName=NetQ18_1 Pin=U7-33
+Added Net: Name=NetQ18_1

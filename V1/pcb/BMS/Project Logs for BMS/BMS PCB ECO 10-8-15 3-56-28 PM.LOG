@@ -1,0 +1,4 @@
+Added Component: Designator=D18(ONSC-SOD-323-2-477-02_V)
+Added Pin To Net: NetName=SENSE Pin=D18-1
+Added Pin To Net: NetName=GND Pin=D18-2
+Added Member To Class: ClassName=U_MCU Member=Component D18 

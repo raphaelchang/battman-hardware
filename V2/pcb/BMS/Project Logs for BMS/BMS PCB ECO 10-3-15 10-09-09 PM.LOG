@@ -1,0 +1,125 @@
+Removed Pin From Net: NetName=CELL12 Pin=Q1-2
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q1-3
+Removed Pin From Net: NetName=CELL11 Pin=Q2-2
+Removed Pin From Net: NetName=NetQ2_3 Pin=Q2-3
+Removed Pin From Net: NetName=CELL10 Pin=Q3-2
+Removed Pin From Net: NetName=NetQ3_3 Pin=Q3-3
+Removed Pin From Net: NetName=CELL9 Pin=Q4-2
+Removed Pin From Net: NetName=NetQ4_3 Pin=Q4-3
+Removed Pin From Net: NetName=CELL8 Pin=Q5-2
+Removed Pin From Net: NetName=NetQ5_3 Pin=Q5-3
+Removed Pin From Net: NetName=CELL7 Pin=Q6-2
+Removed Pin From Net: NetName=NetQ6_3 Pin=Q6-3
+Removed Pin From Net: NetName=CELL6 Pin=Q7-2
+Removed Pin From Net: NetName=NetQ7_3 Pin=Q7-3
+Removed Pin From Net: NetName=CELL5 Pin=Q8-2
+Removed Pin From Net: NetName=NetQ8_3 Pin=Q8-3
+Removed Pin From Net: NetName=CELL4 Pin=Q9-2
+Removed Pin From Net: NetName=NetQ9_3 Pin=Q9-3
+Removed Pin From Net: NetName=CELL3 Pin=Q10-2
+Removed Pin From Net: NetName=NetQ10_3 Pin=Q10-3
+Removed Pin From Net: NetName=CELL2 Pin=Q11-2
+Removed Pin From Net: NetName=NetQ11_3 Pin=Q11-3
+Removed Pin From Net: NetName=CELL1 Pin=Q12-2
+Removed Pin From Net: NetName=NetQ12_3 Pin=Q12-3
+Removed Pin From Net: NetName=CHARGE_GATE Pin=Q22-2
+Removed Pin From Net: NetName=GND Pin=Q22-3
+Removed Pin From Net: NetName=NetQ1_1 Pin=R15-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=R17-2
+Removed Pin From Net: NetName=NetQ3_1 Pin=R19-2
+Removed Pin From Net: NetName=NetQ4_1 Pin=R21-2
+Removed Pin From Net: NetName=NetQ5_1 Pin=R23-2
+Removed Pin From Net: NetName=NetQ6_1 Pin=R25-2
+Removed Pin From Net: NetName=NetQ7_1 Pin=R27-2
+Removed Pin From Net: NetName=NetQ8_1 Pin=R29-2
+Removed Pin From Net: NetName=NetQ9_1 Pin=R31-2
+Removed Pin From Net: NetName=NetQ10_1 Pin=R33-2
+Removed Pin From Net: NetName=NetQ11_1 Pin=R35-2
+Removed Pin From Net: NetName=NetQ12_1 Pin=R37-2
+Removed Pin From Net: NetName=NetQ1_3 Pin=R38-2
+Removed Pin From Net: NetName=NetQ2_3 Pin=R39-2
+Removed Pin From Net: NetName=NetQ3_3 Pin=R40-2
+Removed Pin From Net: NetName=NetQ4_3 Pin=R41-2
+Removed Pin From Net: NetName=NetQ5_3 Pin=R42-2
+Removed Pin From Net: NetName=NetQ6_3 Pin=R43-2
+Removed Pin From Net: NetName=NetQ7_3 Pin=R44-2
+Removed Pin From Net: NetName=NetQ8_3 Pin=R45-2
+Removed Pin From Net: NetName=NetQ9_3 Pin=R46-2
+Removed Pin From Net: NetName=NetQ10_3 Pin=R47-2
+Removed Pin From Net: NetName=NetQ11_3 Pin=R48-2
+Removed Pin From Net: NetName=NetQ12_3 Pin=R49-2
+Change Component Comment : Designator=Q1 Old Comment=MOSFET-P New Comment=
+Change Component Comment : Designator=Q2 Old Comment=MOSFET-P New Comment=
+Change Component Comment : Designator=Q3 Old Comment=MOSFET-P New Comment=
+Change Component Comment : Designator=Q4 Old Comment=MOSFET-P New Comment=
+Change Component Comment : Designator=Q5 Old Comment=MOSFET-P New Comment=
+Change Component Comment : Designator=Q6 Old Comment=MOSFET-P New Comment=
+Change Component Comment : Designator=Q7 Old Comment=MOSFET-P New Comment=
+Change Component Comment : Designator=Q8 Old Comment=MOSFET-P New Comment=
+Change Component Comment : Designator=Q9 Old Comment=MOSFET-P New Comment=
+Change Component Comment : Designator=Q10 Old Comment=MOSFET-P New Comment=
+Change Component Comment : Designator=Q11 Old Comment=MOSFET-P New Comment=
+Change Component Comment : Designator=Q12 Old Comment=MOSFET-P New Comment=
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-2
+Added Pin To Net: NetName=CELL12 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-2
+Added Pin To Net: NetName=CELL11 Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-2
+Added Pin To Net: NetName=CELL10 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-2
+Added Pin To Net: NetName=CELL9 Pin=Q4-3
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-2
+Added Pin To Net: NetName=CELL8 Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-2
+Added Pin To Net: NetName=CELL7 Pin=Q6-3
+Added Pin To Net: NetName=NetQ7_3 Pin=Q7-2
+Added Pin To Net: NetName=CELL6 Pin=Q7-3
+Added Pin To Net: NetName=NetQ8_3 Pin=Q8-2
+Added Pin To Net: NetName=CELL5 Pin=Q8-3
+Added Pin To Net: NetName=NetQ9_3 Pin=Q9-2
+Added Pin To Net: NetName=CELL4 Pin=Q9-3
+Added Pin To Net: NetName=NetQ10_3 Pin=Q10-2
+Added Pin To Net: NetName=CELL3 Pin=Q10-3
+Added Pin To Net: NetName=NetQ11_3 Pin=Q11-2
+Added Pin To Net: NetName=CELL2 Pin=Q11-3
+Added Pin To Net: NetName=NetQ12_3 Pin=Q12-2
+Added Pin To Net: NetName=CELL1 Pin=Q12-3
+Added Pin To Net: NetName=GND Pin=Q22-2
+Added Pin To Net: NetName=CHARGE_GATE Pin=Q22-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R15-2
+Added Pin To Net: NetName=NetQ2_3 Pin=R17-2
+Added Pin To Net: NetName=NetQ3_3 Pin=R19-2
+Added Pin To Net: NetName=NetQ4_3 Pin=R21-2
+Added Pin To Net: NetName=NetQ5_3 Pin=R23-2
+Added Pin To Net: NetName=NetQ6_3 Pin=R25-2
+Added Pin To Net: NetName=NetQ7_3 Pin=R27-2
+Added Pin To Net: NetName=NetQ8_3 Pin=R29-2
+Added Pin To Net: NetName=NetQ9_3 Pin=R31-2
+Added Pin To Net: NetName=NetQ10_3 Pin=R33-2
+Added Pin To Net: NetName=NetQ11_3 Pin=R35-2
+Added Pin To Net: NetName=NetQ12_3 Pin=R37-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R38-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R39-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R40-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R41-2
+Added Pin To Net: NetName=NetQ5_1 Pin=R42-2
+Added Pin To Net: NetName=NetQ6_1 Pin=R43-2
+Added Pin To Net: NetName=NetQ7_1 Pin=R44-2
+Added Pin To Net: NetName=NetQ8_1 Pin=R45-2
+Added Pin To Net: NetName=NetQ9_1 Pin=R46-2
+Added Pin To Net: NetName=NetQ10_1 Pin=R47-2
+Added Pin To Net: NetName=NetQ11_1 Pin=R48-2
+Added Pin To Net: NetName=NetQ12_1 Pin=R49-2
+Added Pin To Net: NetName=NetU6_1 Pin=U6-2
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetQ1_2
+Change Net Name : Old Net Name=NetQ2_3 New Net Name=NetQ2_2
+Change Net Name : Old Net Name=NetQ3_3 New Net Name=NetQ3_2
+Change Net Name : Old Net Name=NetQ4_3 New Net Name=NetQ4_2
+Change Net Name : Old Net Name=NetQ5_3 New Net Name=NetQ5_2
+Change Net Name : Old Net Name=NetQ6_3 New Net Name=NetQ6_2
+Change Net Name : Old Net Name=NetQ7_3 New Net Name=NetQ7_2
+Change Net Name : Old Net Name=NetQ8_3 New Net Name=NetQ8_2
+Change Net Name : Old Net Name=NetQ9_3 New Net Name=NetQ9_2
+Change Net Name : Old Net Name=NetQ10_3 New Net Name=NetQ10_2
+Change Net Name : Old Net Name=NetQ11_3 New Net Name=NetQ11_2
+Change Net Name : Old Net Name=NetQ12_3 New Net Name=NetQ12_2
