@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=VBB Pin=C33-1
-Removed Pin From Net: NetName=VBB Pin=C41-2
-Added Pin To Net: NetName=NetC39_2 Pin=C33-1
-Added Pin To Net: NetName=NetC39_2 Pin=C41-2
-Change Net Name : Old Net Name=NetC39_2 New Net Name=NetC33_1

@@ -1,4 +1,0 @@
-Change Component DesignItemId : Designator=R71 Old DesignItemId=CMP-1012-00032-1 New DesignItemId=CMP-1018-00496-1
-Change Component Footprint: Designator=R71 Old Footprint=RESC0603(1608)_L New Footprint=RESC2512(6432)_L
-Change Component Comment : Designator=R71 Old Comment=18R New Comment=750R
-Added Pin To Net: NetName=NetU6_1 Pin=U6-2

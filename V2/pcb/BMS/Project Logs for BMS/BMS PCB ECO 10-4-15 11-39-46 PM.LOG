@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=NetD4_1 Pin=D4-3
-Change Component Footprint: Designator=D4 Old Footprint= New Footprint=DPAK229P1003X238-3N
-Added Pin To Net: NetName=NetD4_1 Pin=D4-2
-Added Pin To Net: NetName=NetU6_1 Pin=U6-2

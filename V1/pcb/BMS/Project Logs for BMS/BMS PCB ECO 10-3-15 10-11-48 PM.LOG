@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetQ19_1 Pin=Q19-1
-Removed Pin From Net: NetName=LOAD_GATE Pin=Q19-2
-Removed Pin From Net: NetName=GND Pin=Q19-3
-Added Pin To Net: NetName=GND Pin=Q19-1
-Added Pin To Net: NetName=NetQ19_1 Pin=Q19-2
-Added Pin To Net: NetName=LOAD_GATE Pin=Q19-3
-Added Pin To Net: NetName=NetC38_2 Pin=U6-2
-Change Net Name : Old Net Name=NetQ19_1 New Net Name=NetQ19_2

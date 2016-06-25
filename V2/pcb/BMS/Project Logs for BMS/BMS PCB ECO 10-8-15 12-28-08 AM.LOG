@@ -1,4 +1,0 @@
-Added Component: Designator=D17(ONSC-SOD-123-2-425-04_V)
-Added Pin To Net: NetName=C+ Pin=D17-1
-Added Pin To Net: NetName=GND Pin=D17-2
-Added Member To Class: ClassName=U_Charging Member=Component D17 

@@ -1,6 +1,0 @@
-Added Component: Designator=Q19(SOT23-3)
-Added Pin To Net: NetName=GND Pin=Q19-1
-Added Pin To Net: NetName=NetQ19_2 Pin=Q19-2
-Added Pin To Net: NetName=LOAD_GATE Pin=Q19-3
-Added Pin To Net: NetName=NetC38_2 Pin=U6-2
-Added Member To Class: ClassName=U_MCU Member=Component Q19 MOSFET-P

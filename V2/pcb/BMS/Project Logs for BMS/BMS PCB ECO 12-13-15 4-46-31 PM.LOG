@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
-Added Pin To Net: NetName=NetJP2_1 Pin=U3-6
-Added Net: Name=NetJP2_1
-Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
-Added Pin To Net: NetName=NetJP2_2 Pin=U3-5
-Added Net: Name=NetJP2_2
-Added Pin To Net: NetName=NetJP2_3 Pin=JP2-3
-Added Pin To Net: NetName=NetJP2_3 Pin=U3-4
-Added Net: Name=NetJP2_3

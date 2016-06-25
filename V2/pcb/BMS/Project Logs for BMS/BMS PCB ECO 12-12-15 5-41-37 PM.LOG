@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=NetR2_2 Pin=U6-0
-Added Pin To Net: NetName=NetR1_2 Pin=U6-6
-Added Pin To Net: NetName=NetR6_2 Pin=U6-8
-Change Net Name : Old Net Name=NetR1_2 New Net Name=SCKI
-Change Net Name : Old Net Name=NetR2_2 New Net Name=SDI
-Change Net Name : Old Net Name=NetR6_2 New Net Name=SDO
-Added Pin To Net: NetName=ADC_CS Pin=U3-20/A6
-Added Pin To Net: NetName=ADC_CS Pin=U6-9
-Added Net: Name=ADC_CS
