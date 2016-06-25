@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: BMS.PcbDoc   12/14/15  5:16:51 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BMS.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.8mil (0.29972mm)      Round          15               0.61 Inch (15.40 mm)
+T2        20mil (0.508mm)          Round          130              25.11 Inch (637.90 mm)
+T3        28mil (0.7112mm)         Round          142              31.87 Inch (809.39 mm)
+T4        31.5mil (0.8001mm)       Round          7                0.47 Inch (12.00 mm)
+T5        35.4mil (0.89916mm)      Round          9                2.76 Inch (70.22 mm)
+T6        38mil (0.9652mm)         Round          33               3.70 Inch (93.98 mm)
+T7        201mil (5.1054mm)        Round          1                0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            337              64.52 Inch (1638.88 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
