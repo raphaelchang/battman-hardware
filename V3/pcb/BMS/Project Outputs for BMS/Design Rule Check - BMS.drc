@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\brent\OneDrive\personal\battman\V3\pcb\BMS\BMS.PcbDoc
-Date     : 8/7/2016
-Time     : 9:50:10 PM
+Date     : 8/8/2016
+Time     : 3:05:41 AM
 
 Processing Rule : Room U_MCU (Bounding Region = (4407.24mil, 5219.488mil, 5497.559mil, 6194mil) (InComponentClass('U_MCU'))
 Rule Violations :0
@@ -49,8 +49,7 @@ Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Via (5140mil,4690mil) from Top Layer to Bottom Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Silk primitive without silk layer
 Rule Violations :0
@@ -74,6 +73,7 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U5-7(5175.354mil,4497.205mil) on Top Layer And Pad U5-8(5175.354mil,4471.614mil) on Top Layer [Top Solder] Mask Sliver [1.874mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U5-6(5175.354mil,4522.795mil) on Top Layer And Pad U5-7(5175.354mil,4497.205mil) on Top Layer [Top Solder] Mask Sliver [1.874mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U5-5(5175.354mil,4548.386mil) on Top Layer And Pad U5-6(5175.354mil,4522.795mil) on Top Layer [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.744mil < 3mil) Between Via (5140mil,4500mil) from Top Layer to Bottom Layer And Pad U5-6(5175.354mil,4522.795mil) on Top Layer [Top Solder] Mask Sliver [2.744mil]
    Violation between Minimum Solder Mask Sliver Constraint: (2.788mil < 3mil) Between Pad Q1_S12-2(6298mil,6506.63mil) on Top Layer And Pad R1_S12-2(6268mil,6462.126mil) on Top Layer [Top Solder] Mask Sliver [2.788mil]
    Violation between Minimum Solder Mask Sliver Constraint: (2.788mil < 3mil) Between Pad Q1_S11-2(6150mil,6506mil) on Top Layer And Pad R1_S11-2(6120mil,6461.496mil) on Top Layer [Top Solder] Mask Sliver [2.788mil]
    Violation between Minimum Solder Mask Sliver Constraint: (2.788mil < 3mil) Between Pad Q1_S10-2(6006mil,6506mil) on Top Layer And Pad R1_S10-2(5976mil,6461.496mil) on Top Layer [Top Solder] Mask Sliver [2.788mil]
@@ -106,7 +106,6 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (1.575mil < 3mil) Between Pad U4-8(4938.819mil,5451.614mil) on Top Layer And Pad U4-7(4938.819mil,5477.205mil) on Top Layer [Top Solder] Mask Sliver [1.575mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.087mil < 3mil) Between Pad U6-1(5102.618mil,4490.316mil) on Top Layer And Pad U6-0(5102.618mil,4469.844mil) on Top Layer [Top Solder] Mask Sliver [1.087mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.087mil < 3mil) Between Pad U6-2(5102.618mil,4510.001mil) on Top Layer And Pad U6-1(5102.618mil,4490.316mil) on Top Layer [Top Solder] Mask Sliver [1.087mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (2.05mil < 3mil) Between Via (5141.971mil,4507.072mil) from Top Layer to Bottom Layer And Pad U6-1(5102.618mil,4490.316mil) on Top Layer [Top Solder] Mask Sliver [2.05mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.087mil < 3mil) Between Pad U6-3(5102.618mil,4529.686mil) on Top Layer And Pad U6-2(5102.618mil,4510.001mil) on Top Layer [Top Solder] Mask Sliver [1.087mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.087mil < 3mil) Between Pad U6-4(5102.618mil,4550.159mil) on Top Layer And Pad U6-3(5102.618mil,4529.686mil) on Top Layer [Top Solder] Mask Sliver [1.087mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.087mil < 3mil) Between Pad U6-8(4917.382mil,4529.686mil) on Top Layer And Pad U6-9(4917.382mil,4550.159mil) on Top Layer [Top Solder] Mask Sliver [1.087mil]
@@ -116,7 +115,8 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (2.303mil < 3mil) Between Via (5110mil,5912.2mil) from Top Layer to Bottom Layer And Pad U3-14(5108.582mil,5958.466mil) on Top Layer [Top Solder] Mask Sliver [2.303mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.661mil < 3mil) Between Via (5770mil,4584.059mil) from Top Layer to Bottom Layer And Pad D4-1(5828.567mil,4525.492mil) on Bottom Layer [Bottom Solder] Mask Sliver [1.661mil]
    Violation between Minimum Solder Mask Sliver Constraint: (1.016mil < 3mil) Between Via (5512.763mil,4631.032mil) from Top Layer to Bottom Layer And Pad Q17-3(5506.559mil,4605.492mil) on Bottom Layer [Bottom Solder] Mask Sliver [1.016mil]
-Rule Violations :57
+   Violation between Minimum Solder Mask Sliver Constraint: (2.64mil < 3mil) Between Via (5740mil,4730mil) from Top Layer to Bottom Layer And Pad Q17-1(5705.575mil,4705.492mil) on Bottom Layer [Bottom Solder] Mask Sliver [2.64mil]
+Rule Violations :58
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -140,11 +140,7 @@ Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net NetC40_2 Between Via (5140mil,4690mil) from Top Layer to Bottom Layer And Track (5141.352mil,4781.244mil)(5150mil,4789.892mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VDD Between Pad U8-17(5435mil,4128.898mil) on Bottom Layer And Pad U8-15(5535mil,4128.898mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U8-1(5285mil,4491.102mil) on Bottom Layer And Pad U5-2(5344.646mil,4497.205mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C6-2(5100mil,4458.504mil) on Bottom Layer And Pad U6-4(5102.618mil,4550.159mil) on Top Layer [Unplated] 
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -159,5 +155,5 @@ Processing Rule : Room Power (Bounding Region = (4458.158mil, 4036.063mil, 6190.
 Rule Violations :0
 
 
-Violations Detected : 62
-Time Elapsed        : 00:00:04
+Violations Detected : 58
+Time Elapsed        : 00:00:02
