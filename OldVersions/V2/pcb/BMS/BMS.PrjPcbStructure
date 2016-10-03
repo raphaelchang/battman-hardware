@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=BMS.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=BMS.SchDoc|Designator=U_Charging|SchDesignator=U_Charging|FileName=Charging.SchDoc|SymbolType=Normal|RawFileName=Charging.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=BMS.SchDoc|Designator=U_LTC6803|SchDesignator=U_LTC6803|FileName=LTC6803.SchDoc|SymbolType=Normal|RawFileName=LTC6803.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=BMS.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

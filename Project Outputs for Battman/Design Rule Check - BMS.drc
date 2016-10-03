@@ -1,0 +1,121 @@
+Protel Design System Design Rule Check
+PCB File : \\vmware-host\Shared Folders\Documents\Projects\battman-hardware\V4\BMS.PcbDoc
+Date     : 10/2/2016
+Time     : 7:22:41 PM
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetC25_1 Between Pad RESET-2(1829.291mil,653.504mil) on Component Side And Pad RESET-1(1990.709mil,653.504mil) on Component Side 
+   Violation between Un-Routed Net Constraint: Net NetBOOT_1 Between Track (2020mil,585mil)(2020mil,590.426mil) on Solder Side And Pad BOOT-1(2200.709mil,653.504mil) on Component Side 
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=500mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (1.433mil < 3mil) Between Via (2480mil,585mil) from Component Side to Solder Side And Pad L2-2(2525mil,533.228mil) on Component Side [Top Solder] Mask Sliver [1.433mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.433mil < 3mil) Between Via (2510mil,585mil) from Component Side to Solder Side And Pad L2-2(2525mil,533.228mil) on Component Side [Top Solder] Mask Sliver [1.433mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.433mil < 3mil) Between Via (2570mil,585mil) from Component Side to Solder Side And Pad L2-2(2525mil,533.228mil) on Component Side [Top Solder] Mask Sliver [1.433mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.478mil < 3mil) Between Via (2600mil,585mil) from Component Side to Solder Side And Pad L2-2(2525mil,533.228mil) on Component Side [Top Solder] Mask Sliver [1.478mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.478mil < 3mil) Between Via (2450mil,585mil) from Component Side to Solder Side And Pad L2-2(2525mil,533.228mil) on Component Side [Top Solder] Mask Sliver [1.478mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.433mil < 3mil) Between Via (2540mil,585mil) from Component Side to Solder Side And Pad L2-2(2525mil,533.228mil) on Component Side [Top Solder] Mask Sliver [1.433mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.748mil < 3mil) Between Via (2760mil,495mil) from Component Side to Solder Side And Pad C16-1(2785.118mil,555mil) on Component Side [Top Solder] Mask Sliver [0.748mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.748mil < 3mil) Between Via (2760mil,615mil) from Component Side to Solder Side And Pad C16-1(2785.118mil,555mil) on Component Side [Top Solder] Mask Sliver [0.748mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U7-2(2084.646mil,497.205mil) on Component Side And Pad U7-1(2084.646mil,471.614mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U7-3(2084.646mil,522.795mil) on Component Side And Pad U7-2(2084.646mil,497.205mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U7-4(2084.646mil,548.386mil) on Component Side And Pad U7-3(2084.646mil,522.795mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U7-7(1915.354mil,497.205mil) on Component Side And Pad U7-8(1915.354mil,471.614mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U7-6(1915.354mil,522.795mil) on Component Side And Pad U7-7(1915.354mil,497.205mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U7-5(1915.354mil,548.386mil) on Component Side And Pad U7-6(1915.354mil,522.795mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U2-2(2748.976mil,675.315mil) on Component Side And Pad U2-1(2748.976mil,655.63mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U2-9(2671.024mil,675.315mil) on Component Side And Pad U2-10(2671.024mil,655.63mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U2-8(2671.024mil,695mil) on Component Side And Pad U2-9(2671.024mil,675.315mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U2-7(2671.024mil,714.685mil) on Component Side And Pad U2-8(2671.024mil,695mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U2-6(2671.024mil,734.37mil) on Component Side And Pad U2-7(2671.024mil,714.685mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U2-4(2748.976mil,714.685mil) on Component Side And Pad U2-5(2748.976mil,734.37mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U2-3(2748.976mil,695mil) on Component Side And Pad U2-4(2748.976mil,714.685mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U2-2(2748.976mil,675.315mil) on Component Side And Pad U2-3(2748.976mil,695mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U5-6(3117.205mil,565.354mil) on Component Side And Pad U5-5(3091.614mil,565.354mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U5-7(3142.795mil,565.354mil) on Component Side And Pad U5-6(3117.205mil,565.354mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U5-8(3168.386mil,565.354mil) on Component Side And Pad U5-7(3142.795mil,565.354mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U5-3(3117.205mil,734.646mil) on Component Side And Pad U5-4(3091.614mil,734.646mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U5-2(3142.795mil,734.646mil) on Component Side And Pad U5-3(3117.205mil,734.646mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U5-1(3168.386mil,734.646mil) on Component Side And Pad U5-2(3142.795mil,734.646mil) on Component Side [Top Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.677mil < 3mil) Between Pad Q23-2(3245mil,255mil) on Component Side And Pad R68-2(3235mil,205mil) on Component Side [Top Solder] Mask Sliver [1.677mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.417mil < 3mil) Between Via (2820mil,555mil) from Component Side to Solder Side And Pad C8-1(2870mil,524.882mil) on Component Side [Top Solder] Mask Sliver [2.417mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.417mil < 3mil) Between Via (2880mil,555mil) from Component Side to Solder Side And Pad C8-1(2870mil,524.882mil) on Component Side [Top Solder] Mask Sliver [2.417mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.417mil < 3mil) Between Via (2850mil,555mil) from Component Side to Solder Side And Pad C8-1(2870mil,524.882mil) on Component Side [Top Solder] Mask Sliver [2.417mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.622mil < 3mil) Between Pad U9-4(2255.315mil,356.417mil) on Solder Side And Pad C18-1(2251.142mil,310mil) on Solder Side [Bottom Solder] Mask Sliver [2.622mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.927mil < 3mil) Between Pad U9-5(2235.63mil,356.417mil) on Solder Side And Pad C18-1(2251.142mil,310mil) on Solder Side [Bottom Solder] Mask Sliver [2.927mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.512mil < 3mil) Between Via (3295mil,510mil) from Component Side to Solder Side And Pad Q13-3(3268.386mil,542.165mil) on Solder Side [Bottom Solder] Mask Sliver [1.512mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.512mil < 3mil) Between Via (3270mil,510mil) from Component Side to Solder Side And Pad Q13-3(3268.386mil,542.165mil) on Solder Side [Bottom Solder] Mask Sliver [1.512mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.512mil < 3mil) Between Via (3320mil,510mil) from Component Side to Solder Side And Pad Q13-3(3355mil,542.165mil) on Solder Side [Bottom Solder] Mask Sliver [1.512mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.302mil < 3mil) Between Via (3395mil,510mil) from Component Side to Solder Side And Pad Q13-3(3355mil,542.165mil) on Solder Side [Bottom Solder] Mask Sliver [2.302mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.512mil < 3mil) Between Via (3370mil,510mil) from Component Side to Solder Side And Pad Q13-3(3355mil,542.165mil) on Solder Side [Bottom Solder] Mask Sliver [1.512mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.512mil < 3mil) Between Via (3345mil,510mil) from Component Side to Solder Side And Pad Q13-3(3355mil,542.165mil) on Solder Side [Bottom Solder] Mask Sliver [1.512mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.512mil < 3mil) Between Via (3445mil,510mil) from Component Side to Solder Side And Pad Q13-3(3441.614mil,542.165mil) on Solder Side [Bottom Solder] Mask Sliver [1.512mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.512mil < 3mil) Between Via (3470mil,510mil) from Component Side to Solder Side And Pad Q13-3(3441.614mil,542.165mil) on Solder Side [Bottom Solder] Mask Sliver [1.512mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.512mil < 3mil) Between Via (3420mil,510mil) from Component Side to Solder Side And Pad Q13-3(3441.614mil,542.165mil) on Solder Side [Bottom Solder] Mask Sliver [1.512mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.811mil < 3mil) Between Via (3435mil,365mil) from Component Side to Solder Side And Pad Q13-2(3422.913mil,398.465mil) on Solder Side [Bottom Solder] Mask Sliver [2.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.811mil < 3mil) Between Via (3410mil,365mil) from Component Side to Solder Side And Pad Q13-2(3422.913mil,398.465mil) on Solder Side [Bottom Solder] Mask Sliver [2.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.811mil < 3mil) Between Via (3360mil,365mil) from Component Side to Solder Side And Pad Q13-2(3377.638mil,398.465mil) on Solder Side [Bottom Solder] Mask Sliver [2.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.811mil < 3mil) Between Via (3385mil,365mil) from Component Side to Solder Side And Pad Q13-2(3377.638mil,398.465mil) on Solder Side [Bottom Solder] Mask Sliver [2.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.905mil < 3mil) Between Via (3360mil,415mil) from Component Side to Solder Side And Pad Q13-2(3332.362mil,398.465mil) on Solder Side [Bottom Solder] Mask Sliver [1.905mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.905mil < 3mil) Between Via (3360mil,390mil) from Component Side to Solder Side And Pad Q13-2(3332.362mil,398.465mil) on Solder Side [Bottom Solder] Mask Sliver [1.905mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.811mil < 3mil) Between Via (3335mil,365mil) from Component Side to Solder Side And Pad Q13-2(3332.362mil,398.465mil) on Solder Side [Bottom Solder] Mask Sliver [2.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.811mil < 3mil) Between Via (3285mil,365mil) from Component Side to Solder Side And Pad Q13-2(3287.087mil,398.465mil) on Solder Side [Bottom Solder] Mask Sliver [2.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.905mil < 3mil) Between Via (3360mil,265mil) from Component Side to Solder Side And Pad Q13-2(3332.362mil,288.228mil) on Solder Side [Bottom Solder] Mask Sliver [1.905mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.905mil < 3mil) Between Via (3360mil,290mil) from Component Side to Solder Side And Pad Q13-2(3332.362mil,288.228mil) on Solder Side [Bottom Solder] Mask Sliver [1.905mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.184mil < 3mil) Between Via (3360mil,315mil) from Component Side to Solder Side And Pad Q13-2(3332.362mil,288.228mil) on Solder Side [Bottom Solder] Mask Sliver [2.184mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.575mil < 3mil) Between Pad U4-3(791.181mil,337.205mil) on Solder Side And Pad U4-4(791.181mil,311.614mil) on Solder Side [Bottom Solder] Mask Sliver [1.575mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.575mil < 3mil) Between Pad U4-6(688.819mil,337.205mil) on Solder Side And Pad U4-5(688.819mil,311.614mil) on Solder Side [Bottom Solder] Mask Sliver [1.575mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.575mil < 3mil) Between Pad U4-7(688.819mil,362.795mil) on Solder Side And Pad U4-8(688.819mil,388.386mil) on Solder Side [Bottom Solder] Mask Sliver [1.575mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.575mil < 3mil) Between Pad U4-6(688.819mil,337.205mil) on Solder Side And Pad U4-7(688.819mil,362.795mil) on Solder Side [Bottom Solder] Mask Sliver [1.575mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.575mil < 3mil) Between Pad U4-2(791.181mil,362.795mil) on Solder Side And Pad U4-3(791.181mil,337.205mil) on Solder Side [Bottom Solder] Mask Sliver [1.575mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.575mil < 3mil) Between Pad U4-1(791.181mil,388.386mil) on Solder Side And Pad U4-2(791.181mil,362.795mil) on Solder Side [Bottom Solder] Mask Sliver [1.575mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.073mil < 3mil) Between Via (2225mil,500mil) from Component Side to Solder Side And Pad U9-6(2235.63mil,533.583mil) on Solder Side [Bottom Solder] Mask Sliver [1.073mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U9-7(2255.315mil,533.583mil) on Solder Side And Pad U9-6(2235.63mil,533.583mil) on Solder Side [Bottom Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U9-8(2275mil,533.583mil) on Solder Side And Pad U9-7(2255.315mil,533.583mil) on Solder Side [Bottom Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U9-9(2294.685mil,533.583mil) on Solder Side And Pad U9-8(2275mil,533.583mil) on Solder Side [Bottom Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U9-10(2314.37mil,533.583mil) on Solder Side And Pad U9-9(2294.685mil,533.583mil) on Solder Side [Bottom Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U9-4(2255.315mil,356.417mil) on Solder Side And Pad U9-5(2235.63mil,356.417mil) on Solder Side [Bottom Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U9-3(2275mil,356.417mil) on Solder Side And Pad U9-4(2255.315mil,356.417mil) on Solder Side [Bottom Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U9-2(2294.685mil,356.417mil) on Solder Side And Pad U9-3(2275mil,356.417mil) on Solder Side [Bottom Solder] Mask Sliver [1.874mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.874mil < 3mil) Between Pad U9-1(2314.37mil,356.417mil) on Solder Side And Pad U9-2(2294.685mil,356.417mil) on Solder Side [Bottom Solder] Mask Sliver [1.874mil]
+Rule Violations :69
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+
+Violations Detected : 71
+Time Elapsed        : 00:00:03
