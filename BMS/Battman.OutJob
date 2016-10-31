@@ -126,7 +126,7 @@ Configuration5_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416
 Configuration5_Name3=General
 Configuration5_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1577|FormHeight=753|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration5_Name4=GroupOrder
-Configuration5_Item4=Comment=True|Footprint=True
+Configuration5_Item4=PartNumber=True
 Configuration5_Name5=OutputConfigurationParameter1
 Configuration5_Item5=??
 Configuration5_Name6=PCBDocument
