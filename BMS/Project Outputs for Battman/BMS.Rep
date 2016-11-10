@@ -5,19 +5,19 @@ AddingPadStyle (Default)
 AddingPadStyle P:EX122Y122D1221
 AddingPadStyle EF122X122MID1
 AddingPadStyle EF122X122MID2
+AddingPadStyle EF20X20TOP1
+AddingPadStyle EF28X35TOP1
+AddingPadStyle EF28X31TOP1
 AddingPadStyle EF18X33TOP1
 AddingPadStyle EF18X22TOP1
 AddingPadStyle EF66X60TOP1
 AddingPadStyle EF10X10TOP1
-AddingPadStyle EF28X31TOP1
-AddingPadStyle EF20X20TOP1
 AddingPadStyle EF43X75TOP1
 AddingPadStyle EF18X53TOP1
 AddingPadStyle EF63X55TOP1
 AddingPadStyle P:EX79Y79D791
 AddingPadStyle EF55X31TOP1
 AddingPadStyle EF43X79TOP1
-AddingPadStyle EF28X35TOP1
 AddingPadStyle EF37X67TOP1
 AddingPadStyle EF32X36TOP1
 AddingPadStyle EF58X14TOP1
@@ -39,7 +39,8 @@ AddingPadStyle EF10X75TOP1
 AddingPadStyle EF31X82TOP1
 AddingPadStyle EF28X12TOP1
 AddingPadStyle EF39X126TOP1
-AddingPadStyle EF91X91TOP1
+AddingPadStyle EF183X163TOP1
+AddingPadStyle EF45X57TOP1
 AddingPadStyle EF43X39TOP1
 AddingPadStyle EF123X138TOP1
 AddingPadStyle EF18X63TOP1
@@ -59,30 +60,30 @@ Adding ViaStyle (Default)
 Adding ViaStyle V:EX20Y20D101
 Adding TextStyle (Default)
 Adding TextStyle T:H20W5
-Adding TextStyle T:H28W7
+Adding TextStyle T:H30W8
 Adding TextStyle T:H60W10
 Adding TextStyle T:H10W3
 Adding TextStyle T:H20W51
 Adding TextStyle T:H10W31
 Adding TextStyle T:H15W4
 Adding TextStyle T:H140W10
+Adding PatternDef C0402[1005X55]_1
+Adding PatternDef R0603[1608]_1
+Adding PatternDef LED0603_1
 Adding PatternDef SOT323-3_1
 Adding PatternDef R0402[1005]_1
 Adding PatternDef DO-214AC_1
 Adding PatternDef NETTIE_1
-Adding PatternDef LED0603_1
-Adding PatternDef C0402[1005X55]_1
 Adding PatternDef ST3215SB_1
 Adding PatternDef TSSOP-8_1
 Adding PatternDef ABRA-ABM3B-4_V_1
 Adding PatternDef XZMDKCBDDG45S-9_1
 Adding PatternDef 1206_FUSE_1
-Adding PatternDef R0603[1608]_1
 Adding PatternDef C1206[3216X160]_1
 Adding PatternDef SOT23-3_1
 Adding PatternDef TSSOP-16_1
 Adding PatternDef C1210[3225X200]_1
-Adding PatternDef SO-8_1
+Adding PatternDef PowerPak-8_1
 Adding PatternDef R1206[3216]_1
 Adding PatternDef C0603[1608X92]_1
 Adding PatternDef JST-XH-13-PTH-VERT_1
@@ -97,7 +98,7 @@ Adding PatternDef SOD-123_1
 Adding PatternDef TSSOP-44_1
 Adding PatternDef TDFN-10-EP_1
 Adding PatternDef CAP-ELECTROLYTIC[10.0X12.6]_1
-Adding PatternDef DO-214AA_1
+Adding PatternDef TO-277_1
 Adding PatternDef SOD-123W_1
 Adding PatternDef SRP1038A_1
 Adding PatternDef MSOP-8_1
@@ -111,23 +112,23 @@ Adding PatternDef WSON-6_1
 Adding PatternDef SDR0604_1
 Adding PatternDef CSS-0575A-SMT_1
 Adding PatternDef MSOP-10_1
+Adding CompDef C0402[1005X55]_1
+Adding CompDef R0603[1608]_1
+Adding CompDef LED0603_1
 Adding CompDef SOT323-3_1
 Adding CompDef R0402[1005]_1
 Adding CompDef DO-214AC_1
 Adding CompDef NETTIE_1
-Adding CompDef LED0603_1
-Adding CompDef C0402[1005X55]_1
 Adding CompDef ST3215SB_1
 Adding CompDef TSSOP-8_1
 Adding CompDef ABRA-ABM3B-4_V_1
 Adding CompDef XZMDKCBDDG45S-9_1
 Adding CompDef 1206_FUSE_1
-Adding CompDef R0603[1608]_1
 Adding CompDef C1206[3216X160]_1
 Adding CompDef SOT23-3_1
 Adding CompDef TSSOP-16_1
 Adding CompDef C1210[3225X200]_1
-Adding CompDef SO-8_1
+Adding CompDef PowerPak-8_1
 Adding CompDef R1206[3216]_1
 Adding CompDef C0603[1608X92]_1
 Adding CompDef JST-XH-13-PTH-VERT_1
@@ -142,7 +143,7 @@ Adding CompDef SOD-123_1
 Adding CompDef TSSOP-44_1
 Adding CompDef TDFN-10-EP_1
 Adding CompDef CAP-ELECTROLYTIC[10.0X12.6]_1
-Adding CompDef DO-214AA_1
+Adding CompDef TO-277_1
 Adding CompDef SOD-123W_1
 Adding CompDef SRP1038A_1
 Adding CompDef MSOP-8_1
@@ -159,6 +160,8 @@ Adding CompDef MSOP-10_1
       Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
       Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
       Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
       Warning: Unexpected Poly Region Object Found On Layer TopLayer.
       Warning: Unexpected Poly Region Object Found On Layer TopLayer.
       Warning: Unexpected Poly Region Object Found On Layer TopLayer.
