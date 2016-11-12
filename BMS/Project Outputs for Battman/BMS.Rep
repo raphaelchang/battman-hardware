@@ -29,7 +29,6 @@ AddingPadStyle P:EX69Y69D391
 AddingPadStyle EF10X61TOP1
 AddingPadStyle EF18X39TOP1
 AddingPadStyle EF39X26TOP1
-AddingPadStyle EF28X51TOP1
 AddingPadStyle EF96X35TOP1
 AddingPadStyle EF96X220TOP1
 AddingPadStyle EF47X65TOP1
@@ -45,14 +44,15 @@ AddingPadStyle EF43X39TOP1
 AddingPadStyle EF123X138TOP1
 AddingPadStyle EF18X63TOP1
 AddingPadStyle EF43X67TOP1
+AddingPadStyle EF28X51TOP1
 AddingPadStyle EF43X33TOP1
 AddingPadStyle EF18X20TOP1
 AddingPadStyle EF56X14TOP1
 AddingPadStyle EF71X75TOP1
 AddingPadStyle EF75X75TOP1
+AddingPadStyle EF39X28MID1
 AddingPadStyle EF12X18TOP1
 AddingPadStyle EF39X63TOP1
-AddingPadStyle EF39X28MID1
 AddingPadStyle EF83X228TOP1
 AddingPadStyle EF83X67TOP1
 AddingPadStyle EF12X55TOP1
@@ -82,6 +82,7 @@ Adding PatternDef 1206_FUSE_1
 Adding PatternDef C1206[3216X160]_1
 Adding PatternDef SOT23-3_1
 Adding PatternDef TSSOP-16_1
+Adding PatternDef SOT23-3_2
 Adding PatternDef C1210[3225X200]_1
 Adding PatternDef PowerPak-8_1
 Adding PatternDef R1206[3216]_1
@@ -90,7 +91,6 @@ Adding PatternDef JST-XH-13-PTH-VERT_1
 Adding PatternDef LQFP-48_1
 Adding PatternDef SOT-23-8_1
 Adding PatternDef SWITCH_1
-Adding PatternDef R0805[2012]_1
 Adding PatternDef WSL2726_1
 Adding PatternDef MURA-BLM31-B60-CHIP-2_V3_1
 Adding PatternDef JST-PH-2-PTH-VERT_1
@@ -104,6 +104,7 @@ Adding PatternDef SRP1038A_1
 Adding PatternDef MSOP-8_1
 Adding PatternDef DIRECTFET-9_1
 Adding PatternDef JST-PH-5-PTH-VERT_1
+Adding PatternDef R0805[2012]_1
 Adding PatternDef SOD-323_1
 Adding PatternDef C1210[3225X250]_1
 Adding PatternDef USB-MICROB_1
@@ -127,6 +128,7 @@ Adding CompDef 1206_FUSE_1
 Adding CompDef C1206[3216X160]_1
 Adding CompDef SOT23-3_1
 Adding CompDef TSSOP-16_1
+Adding CompDef SOT23-3_2
 Adding CompDef C1210[3225X200]_1
 Adding CompDef PowerPak-8_1
 Adding CompDef R1206[3216]_1
@@ -135,7 +137,6 @@ Adding CompDef JST-XH-13-PTH-VERT_1
 Adding CompDef LQFP-48_1
 Adding CompDef SOT-23-8_1
 Adding CompDef SWITCH_1
-Adding CompDef R0805[2012]_1
 Adding CompDef WSL2726_1
 Adding CompDef MURA-BLM31-B60-CHIP-2_V3_1
 Adding CompDef JST-PH-2-PTH-VERT_1
@@ -149,6 +150,7 @@ Adding CompDef SRP1038A_1
 Adding CompDef MSOP-8_1
 Adding CompDef DIRECTFET-9_1
 Adding CompDef JST-PH-5-PTH-VERT_1
+Adding CompDef R0805[2012]_1
 Adding CompDef SOD-323_1
 Adding CompDef C1210[3225X250]_1
 Adding CompDef USB-MICROB_1
@@ -157,6 +159,7 @@ Adding CompDef WSON-6_1
 Adding CompDef SDR0604_1
 Adding CompDef CSS-0575A-SMT_1
 Adding CompDef MSOP-10_1
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
       Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
       Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
       Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
