@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 3:52:34 PM On 11/25/2016
+Start Output Generation At 4:43:54 PM On 11/25/2016
 
 Output: Bill of Materials
 Type  : BOM
@@ -11,4 +11,4 @@ From  : Project [Battman.PrjPcb]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 3:52:43 PM On 11/25/2016
+Finished Output Generation At 4:43:56 PM On 11/25/2016
