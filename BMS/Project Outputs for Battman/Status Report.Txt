@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 1:58:48 AM On 11/12/2016
-
-Output: Export STEP
-Type  : ExportSTEP
+Output: NC Drill Files
+Type  : NC Drill
 From  : PCB Document [BMS.PcbDoc]
-   Generated File[BMS.step]
+   Generated File[BMS.TXT]
+   Generated File[BMS.LDP]
+   Generated File[BMS.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 2:00:14 AM On 11/12/2016
+Finished Output Generation At 5:59:14 AM On 11/25/2016
