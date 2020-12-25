@@ -15,9 +15,9 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Battman.OutJob
 Description=
-TargetOutputMedium=STEP
+TargetOutputMedium=BOM
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
@@ -125,7 +125,7 @@ OutputName5=Bill of Materials
 OutputCategory5=Report
 OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
@@ -244,7 +244,7 @@ OutputName9=Export STEP
 OutputCategory9=Export
 OutputDocumentPath9=
 OutputVariantName9=
-OutputEnabled9=1
+OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
 OutputEnabled9_OutputMedium3=0
@@ -253,6 +253,20 @@ OutputEnabled9_OutputMedium5=1
 OutputDefault9=0
 Configuration9_Name1=OutputConfigurationParameter1
 Configuration9_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=False|IncludeElectricalPadHoles=False|IncludeFreePadHoles=False|ExportFoldedBoard=True|ExportFoldedBoardRate=0|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False
+OutputType10=Pick Place
+OutputName10=Generates pick and place files
+OutputCategory10=Assembly
+OutputDocumentPath10=
+OutputVariantName10=
+OutputEnabled10=1
+OutputEnabled10_OutputMedium1=0
+OutputEnabled10_OutputMedium2=0
+OutputEnabled10_OutputMedium3=0
+OutputEnabled10_OutputMedium4=2
+OutputEnabled10_OutputMedium5=0
+OutputDefault10=0
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True
 
 [PublishSettings]
 OutputFilePath2=\\vmware-host\Shared Folders\Documents\Projects\battman-hardware\BMS\Project Outputs for Battman\Battman.pdf
